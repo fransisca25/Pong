@@ -47,3 +47,4 @@ This is a classic Pong game implemented using Pygame. The game features a main m
 - Pygame (pygame>=2.0.0)
 
 ## 7. YouTube Video
+https://youtu.be/0YABtpq7vk4
